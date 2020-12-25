@@ -1,1 +1,1 @@
-# weather-tg-bot
+# weather-bot
